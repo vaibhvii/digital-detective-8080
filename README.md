@@ -36,3 +36,13 @@ Each mission will be completed individually, documented in its respective README
 ## Security and Privacy
 
 This repository will not contain passwords, access tokens, or sensitive personal or network information.
+
+## My Learning
+
+Throughout this assignment, I developed an understanding of several important computer science concepts.
+
+1. **Computer Fundamentals and Operating Systems:** I learned how computer hardware, software, processes and system resources work together.
+
+2. **Terminal and Python Programming:** I practised command-line operations, file management, Python programming and number-system conversions.
+
+3. **Version Control and Collaboration:** I learned how Git and GitHub help track changes, maintain project history, manage branches and support collaboration through Pull Requests.
